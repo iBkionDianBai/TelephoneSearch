@@ -1,0 +1,8 @@
+﻿  management.cpp
+G:\C++\Telehone\Telehone\management.cpp(708,9): warning C4101: “i”: 未引用的局部变量
+  正在生成代码
+  3 of 52 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Telehone.vcxproj -> G:\C++\Telehone\x64\Release\Telehone.exe
